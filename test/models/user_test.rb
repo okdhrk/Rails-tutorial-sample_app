@@ -33,6 +33,6 @@ class UserTest < ActiveSupport::TestCase
     @user.email = "a"*244 + "@example.com"
     assert_not @user.valid?
   end
-  
+  あ
   
 end
