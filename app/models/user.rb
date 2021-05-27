@@ -33,4 +33,3 @@ class User < ApplicationRecord
   end
 end
 
-a
